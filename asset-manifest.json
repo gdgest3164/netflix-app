@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/netflix-app/static/js/main.8567a6b6.js",
+    "index.html": "/netflix-app/index.html",
+    "main.8567a6b6.js.map": "/netflix-app/static/js/main.8567a6b6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8567a6b6.js"
+  ]
+}
